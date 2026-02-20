@@ -9,10 +9,6 @@
 ---
 
 ## 🐙 GitHub CLI (`gh`) - L'arsenal rapide
-... (la suite de ton code ici)
----
-
-## 🐙 GitHub CLI (`gh`) - L'arsenal rapide
 Au lieu d'utiliser le site web, voici comment je gère mes dépôts en CLI.
 
 | Commande | Description |
