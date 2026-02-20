@@ -1,8 +1,15 @@
-# 👨‍💻 Bienvenue sur mon profil GitHub !
+# 👨‍💻 GMX0X1 !
 
-Ingénieur numérique / Infra / Tech. 
-Ce dépôt me sert de page d'accueil et d'aide-mémoire (Cheat Sheet) personnel pour mon workflow en ligne de commande.
+<div align="center">
+  <h1>⚡ Bienvenue dans mon espace</h1>
+  <p><b>Ingénieur Numérique | Infrastructure | Tech</b></p>
+  <p><i>Ce dépôt est mon point d'ancrage. Il sert de page d'accueil et d'aide-mémoire (Cheat Sheet) personnel pour mon écosystème en ligne de commande.</i></p>
+</div>
 
+---
+
+## 🐙 GitHub CLI (`gh`) - L'arsenal rapide
+... (la suite de ton code ici)
 ---
 
 ## 🐙 GitHub CLI (`gh`) - L'arsenal rapide
