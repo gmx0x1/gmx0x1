@@ -1,17 +1,11 @@
 # 👨‍💻 GMX0X1
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bienvenue%20dans%20mon%20espace&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Ing%C3%A9nieur%20S%C3%A9curit%C3%A9%20%26%20T%C3%A9l%C3%A9coms&descAlignY=51&descAlign=62" alt="Header" />
-</div>
 
 <div align="center">
   <h3>Ingénieur Sécurité & Télécoms</h3>
   <p><i>Ce dépôt est mon point d'ancrage. Il sert de page d'accueil et d'aide-mémoire (Cheat Sheet) personnel pour mon écosystème en ligne de commande.</i></p>
 
-  <p align="center">
-    <a href="https://github.com/gmx0x1"><img src="https://github-readme-stats.vercel.app/api?username=gmx0x1&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="GitHub Stats" /></a>
-    <a href="https://github.com/gmx0x1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmx0x1&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Top Langs" /></a>
-  </p>
+
 </div>
 
 <br>
